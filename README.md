@@ -238,14 +238,20 @@
         ㄴ 진출 db 생성 - Primary key, User PK
 
 -   토너먼트
+    ㄴ 경기 일정(날짜 및 시간) 모두 입력
+    ㄴ 참가자 db
 
-    -
+    -   Primary key, User PK, 강
+        ㄴ 경기 일정 db
+    -   Primary key, User PK, vs, 일정 전적
 
 -   리그
-
-※대진표 짜는 방법
-
-플레이어 추출 방법
+    ㄴ 경기 일정(날짜 및 시간) 모두 입력
+    ㄴ 각 조에서 상위로 진출시킬 인원 입력
+    ㄴ 참가자 db
+    -   Primary key, User PK, 승점, 승, 무, 패
+        ㄴ 경기 일정 db
+    -   Primary key, User PK, vs, 일정, 전적, 획득
 
 방송
 
