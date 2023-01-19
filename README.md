@@ -240,9 +240,8 @@
 -   토너먼트
     ㄴ 경기 일정(날짜 및 시간) 모두 입력
     ㄴ 참가자 db
-
     -   Primary key, User PK, 강
-        ㄴ 경기 일정 db
+    ㄴ 경기 일정 db
     -   Primary key, User PK, vs, 일정 전적
 
 -   리그
